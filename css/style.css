@@ -1,3 +1,22 @@
+div {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 13px;
+}
 .border-top-dark {
     border-top: 1px solid rgba(230, 230, 230, 1);
+}
+.bg-color {
+
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+    margin-top: 60px;
+}
+
+.text-primary:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.text-color {
+    color: #46046e;
 }
